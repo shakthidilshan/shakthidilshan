@@ -8,4 +8,4 @@
     - ✨ Watching Anime
     - ✨ Reading Light Novels
     
-[Java,HTML,CSS,JS,React,Flutter,NextJs,MySQL,PHP,Laravel]
+[Java, HTML, CSS, JS, React, Flutter, NextJs, MySQL, PHP, Laravel ]
